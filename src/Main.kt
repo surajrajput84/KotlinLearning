@@ -1,5 +1,5 @@
 fun main(){
-    val str="Rushabh"
+    val str="suraj"
     val c=str.length
 
     if(c>0){
