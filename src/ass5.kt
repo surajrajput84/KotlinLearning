@@ -27,7 +27,7 @@ fun main() {
     Car.details()
     println("\n")
 
-    Car.drive(150.5)
+    Car.drive(150.5)3
 
     Car.details()
 }
