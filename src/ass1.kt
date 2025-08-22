@@ -1,10 +1,10 @@
-fun main(){
-    val name ="suraj"
-    println("Hello"+name)
-    println("Hello"+name)
-    println("Hello"+name)
-    println("Hello"+name)
-    println("Hello"+name)
+fun main() {
+    val name = "suraj"
+    println("Hello" + name)
+    println("Hello" + name)
+    println("Hello" + name)
+    println("Hello" + name)
+    println("Hello" + name)
 
 
 }
