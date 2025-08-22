@@ -3,7 +3,8 @@ class Car(
     val model: String,
     val year: Int,
     var mileage: Double
-) {
+)
+{
     fun details() {
         println("Car Details:")
         println("Make: $make")
