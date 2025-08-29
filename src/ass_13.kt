@@ -15,6 +15,7 @@ fun main() {
     val studentsMutable = mutableListOf("Suraj", "Om", "Abhishek", "Pankaj", "Raj")
     studentsMutable.add("Sita")
     studentsMutable.add("Gita")
+
     studentsMutable[1] = "Omkar"
     studentsMutable.remove("Abhishek")
     println("Element at index 2: ${studentsMutable[2]}")
